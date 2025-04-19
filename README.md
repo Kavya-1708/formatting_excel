@@ -34,10 +34,11 @@ Formatting in excel makes data more readable and visually appealing. Some of the
 - Highlight cells based on conditions (e.g., values greater than 100 turn green).
   
 - Use Home → Conditional Formatting to apply rules.
-- 
+  
 
 **Cell Styles & Themes**
 - Apply predefined styles for a professional look.
+  
 - Change workbook themes for consistent formatting.
 
 
